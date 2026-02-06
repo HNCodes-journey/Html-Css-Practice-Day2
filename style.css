@@ -1,0 +1,15 @@
+section{
+    padding: 34px;
+    margin: 12px;
+    background-color: gray;
+    color: black;
+    font-size: 100%;
+}
+article{
+    padding: 14px;
+    margin: 34px;
+    background-color: blueviolet;
+    color: aliceblue;
+    font-size: 90%;
+
+}
